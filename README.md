@@ -78,7 +78,7 @@ to make transitions between hover states even smoother.
 
 - Frontend Mentor - [@eneasdutra](https://www.frontendmentor.io/profile/eneasdutra)
 - Linkedin - [@eneasmdutra](https://www.linkedin.com/in/eneasmdutra/)
--Github - [@eneasdutra](https://github.com/eneasdutra)
+- Github - [@eneasdutra](https://github.com/eneasdutra)
 
 ## Acknowledgments
 
